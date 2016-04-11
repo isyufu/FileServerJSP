@@ -32,6 +32,7 @@ public class Init extends HttpServlet{
 	//task 3
 
         Utils.init();
+	//task 4
     }
     
 }
