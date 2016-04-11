@@ -30,6 +30,11 @@ public class Init extends HttpServlet{
         Utils.setDataDirectory(config.getInitParameter("dataDir"));
         //ttask1 
 	//task 3
+	//task 3
+	//task 3
+	//task 3
+	//task 3
+	//task 3
 
         Utils.init();
 	//task 4
