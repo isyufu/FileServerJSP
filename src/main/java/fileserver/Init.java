@@ -28,7 +28,9 @@ public class Init extends HttpServlet{
         super.init(config); 
                         
         Utils.setDataDirectory(config.getInitParameter("dataDir"));
-        
+        //ttask1 
+	//task 3
+
         Utils.init();
     }
     
