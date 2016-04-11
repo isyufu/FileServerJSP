@@ -16,6 +16,7 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.apache.log4j.Logger;
 
 /**
+task 5
  * Servlet implementation class UploadServlet
  */
 public class UploadServlet extends HttpServlet {
